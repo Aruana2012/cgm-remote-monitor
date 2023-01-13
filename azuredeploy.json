@@ -50,7 +50,7 @@
         "mg/dl",
         "mmol"
       ],
-      "defaultValue": "mg/dl"
+      "defaultValue": "mmol/l"
     },
     "apiSecret": {
       "type": "string",
